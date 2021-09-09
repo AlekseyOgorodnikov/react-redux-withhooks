@@ -1,0 +1,11 @@
+.navbar {
+  padding: 20px;
+}
+
+.navbar-link {
+  color: #444d44;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 30px;
+  font-size: 25px;
+}
